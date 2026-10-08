@@ -1,0 +1,5 @@
+ultralytics>=8.0
+opencv-python>=4.8
+lapx>=0.5          # required by ByteTrack
+streamlit>=1.30    # only for baseline/streamlit_app.py
+yt-dlp             # only for tools/download_test_videos.py

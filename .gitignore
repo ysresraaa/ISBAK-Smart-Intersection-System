@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Test videos (not committed for copyright reasons)
+videos/*
+!videos/.gitkeep
+*.mp4
+*.avi
+
+# Ultralytics outputs and auto-downloaded weights
+runs/
+yolov8n.pt
